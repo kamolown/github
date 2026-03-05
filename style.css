@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: rgba(255, 212, 104, 0.72);
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+.tab{
+    border: 1px solid black;
+}
+
+.line{
+    border: 2px solid black;
+}
+
+.line2{
+    border: 1px solid black;
+}
